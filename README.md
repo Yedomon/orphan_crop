@@ -7,6 +7,8 @@
 
 
 2020 | Perspeective| [Orphan Crops and their Wild Relatives in the Genomic Era](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30444-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205220304445%3Fshowall%3Dtrue)
+
+
 2019 | Review | [African Orphan Crops Consortium (AOCC): status of developing genomic resources for African orphan crops](https://link.springer.com/article/10.1007/s00425-019-03156-9)
 
 2020 | Media release | [ Enhancing African orphan crops with genomics](http://africanorphancrops.org/enhancing-african-orphan-crops-with-genomics/)
@@ -42,7 +44,7 @@
 
 2020 | [PHASE GENOMICS](https://phasegenomics.com/) PRESS RELEASE | [ORPHAN CROP GAINS REFERENCE GENOME WITH PROXIMO HI-C](https://phasegenomics.com/new-tools-enable-cost-efficient-genome-assemblies-orphan-crops/)
 
-
+Video: What they are doing on african orphan crop  ?    [The African Orphan Crops Consortium, alleviating stunting due to malnutrition one crop at a time](https://nanoporetech.com/resource-centre/african-orphan-crops-consortium-alleviating-stunting-due-malnutrition-one-crop-0)
 
 See this, Chinese are doing sequencing of African orphan crop....
 
