@@ -13,21 +13,21 @@
 > Selected Species
 
 
-*Allanblackia floribunda*
+- *Allanblackia floribunda*
 
 
-*Dacryodes edulis*
-*Irvingia gabonensis*
-*Moringa oleifera*
-*Ricinodendron heudelotii*
-*Sclerocarya birrea*
-*Tamarindus indica*
-*Uapaca kirkiana*
-*Vitellaria paradoxa*
-*Vitex doniana*
-*Ziziphus mauritiana*
-*Anacardium occidentale*
-*Annona senegalensis*
-*Annona reticulata*
-*Artocarpus heterophyllus*
-*Balanites aegyptiaca*
+- *Dacryodes edulis*
+- *Irvingia gabonensis*
+- *Moringa oleifera*
+- *Ricinodendron heudelotii*
+- *Sclerocarya birrea*
+- *Tamarindus indica*
+- *Uapaca kirkiana*
+- *Vitellaria paradoxa*
+- *Vitex doniana*
+- *Ziziphus mauritiana*
+- *Anacardium occidentale*
+- *Annona senegalensis*
+- *Annona reticulata*
+- *Artocarpus heterophyllus*
+- *Balanites aegyptiaca*
