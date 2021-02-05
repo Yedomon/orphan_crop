@@ -1,5 +1,19 @@
 # orphan_crop
 
+2021 |  Project | [Full-genome sequencing and annotation of the African yam bean (Sphenostylis stenocarpa)](https://acaciaafrica.org/bioinformatics-community-practice/full-genome-sequencing-and-annotation-of-the-african-yam-bean/)
+
+
+[Bernice Ngina Waweru](https://acaciaafrica.org/bix-fellow/bernice-ngina-waweru/) works on the project 
+
+
+
+
+
+
+
+
+
+
 
 2021 | Review | [Genetics and breeding for climate change in Orphan crops](https://link.springer.com/article/10.1007/s00122-020-03755-1)
 
