@@ -44,7 +44,36 @@
 
 2020 | [PHASE GENOMICS](https://phasegenomics.com/) PRESS RELEASE | [ORPHAN CROP GAINS REFERENCE GENOME WITH PROXIMO HI-C](https://phasegenomics.com/new-tools-enable-cost-efficient-genome-assemblies-orphan-crops/)
 
-Video: What they are doing on african orphan crop  ?    [The African Orphan Crops Consortium, alleviating stunting due to malnutrition one crop at a time](https://nanoporetech.com/resource-centre/african-orphan-crops-consortium-alleviating-stunting-due-malnutrition-one-crop-0)
+Video: What they are doing on african orphan crop  ?   Good explanation of the whole process |  [The African Orphan Crops Consortium, alleviating stunting due to malnutrition one crop at a time](https://nanoporetech.com/resource-centre/african-orphan-crops-consortium-alleviating-stunting-due-malnutrition-one-crop-0)
+
+
+
+[Yves Van de Peer](Yves Van de Peer) is their bioinformatician. 
+
+
+and theu have a bioinformatician rfrom africa also
+
+
+
+[Building a Community of Practice](https://acaciaafrica.org/bioinformatics-community-practice/)
+
+
+> The Bioinformatics Community of Practise aims to build a self-sustaining network to enable Africa reap the benefits of the genomic era in improving its agricultural productivity. 
+
+
+And they provide some workshop in bioinformatics [here](https://acaciaafrica.org/bioinformatics-community-practice/bix-cop-about/) covering GWAS, NGS data analysis RNA etc..
+
+
+This a part of the [Alliance for Accelerated Crop Improvement in Africa](https://acaciaafrica.org/about/) . bix cop is the bioinformatics programm
+
+
+the Bio cop github is [here](https://github.com/bixcop18)
+
+
+
+
+
+
 
 See this, Chinese are doing sequencing of African orphan crop....
 
