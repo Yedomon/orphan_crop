@@ -94,3 +94,28 @@ See this, Chinese are doing sequencing of African orphan crop....
 2019 | Review | [The role of genetics in mainstreaming the production of new and orphan crops to diversify food systems and support human nutrition](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15895)
 
 2018 |  Research Paper | [The draft genomes of five agriculturally important African orphan crops](https://academic.oup.com/gigascience/article/8/3/giy152/5232229)
+
+
+
+
+
+
+
+
+# Gynandropsis gynandra (L.) Briq.
+
+
+
+
+
+# Synsepalum dulcificum (Schumach & Thonn.) Daniell 
+
+- #### [Phenotypic variation, functional traits repeatability and core collection inference in Synsepalum dulcificum (Schumach & Thonn.) Daniell reveals the Dahomey Gap as a centre of diversity](https://www.nature.com/articles/s41598-020-76103-4)
+
+
+
+
+
+
+
+
