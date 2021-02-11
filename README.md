@@ -97,15 +97,43 @@ See this, Chinese are doing sequencing of African orphan crop....
 
 
 
-
-
-
-
-
 # Gynandropsis gynandra (L.) Briq.
 
+### Genomics
+
+- Estimate genome size: **~ 1Gb**
+- Ploidy: **Polyploid**
+- Evidence of whole genome duplication event [Erikvan den Bergh et al. 2014](https://www.sciencedirect.com/science/article/pii/S2214662814000061#:~:text=Both%20species%20also%20have%20relatively,gynandra%20%E2%89%88%201%20Gb).)
 
 
+### Health values
+
+- High beta-carotene 
+- High folic acid 
+- Extremely high ascorbic acid 
+- High calcium
+- Low Vitamin E
+- Medium iron
+- Extremely high Oxalic acid
+- Leaves are about 4.0% protein.
+- Leaves contains oxalic acid (ca. 0.01%)
+- The leaves also have antioxidative properties that can help with inflammatory diseases.
+- Because of its anti-inflammatory properties, it is sometimes used as a medicinal herb.
+- patent in cosmetics [Patent](https://patents.google.com/patent/EP2654762A1/fr)
+
+
+### Ecology
+
+- Annual wildflower native to Africa but has naturalized across tropic and sub-tropical regions across Asia.
+- It grows well in disturbed, well-drained soils, but is also **drought-tolerant**. 
+- It does not tolerate cold temperatures well, and is frost-tender.
+
+
+### Biochemistry
+- Belongs to the NAD-ME C4 photosynthesis sub-type
+- Uses NAD-malic enzyme type C4 photosynthesis 
+- The family Cleomaceae is relatively close to Brassicaceae with Arabidopsis thaliana (a C3 photosynthetic plant) and therefore offers comparison with this well studied model organism.[15] 
+- The C4 pathway in this species evolved independently from two other C4 Cleome species, C. angustifolia and C. oxalidea.
 
 
 # Synsepalum dulcificum (Schumach & Thonn.) Daniell 
