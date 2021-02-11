@@ -99,14 +99,55 @@ See this, Chinese are doing sequencing of African orphan crop....
 
 # Gynandropsis gynandra (L.) Briq.
 
+### Synonym
+
+***Cleome gynandra***
+
+
+
+
+
 ### Genomics
 
-- Estimate genome size: **~ 1Gb**
-- Ploidy: **Polyploid**
-- Evidence of whole genome duplication event [Erikvan den Bergh et al. 2014](https://www.sciencedirect.com/science/article/pii/S2214662814000061#:~:text=Both%20species%20also%20have%20relatively,gynandra%20%E2%89%88%201%20Gb).)
+- Estimate genome size: **~ 1Gb** [Erikvan den Bergh et al. 2014](https://www.sciencedirect.com/science/article/pii/S2214662814000061#:~:text=Both%20species%20also%20have%20relatively,gynandra%20%E2%89%88%201%20Gb)
 
 
-### Health values
+- Genome sizes ranging from 2.31 to 2.45 pg/2C [Emmanuel O. Omondi et al. 2017](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbr.12485)
+
+
+- Ploidy: **Diploid** [Emmanuel O. Omondi et al. 2017](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbr.12485)
+
+
+- Chromosome number: 2n = 34 [Emmanuel O. Omondi et al. 2017](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbr.12485)
+
+
+> Cleome gynandra (L.) Briq. is an African leafy vegetable with a potential to improve food security and micronutrient deficiencies. 
+
+
+
+
+[Barker et al 2009](https://academic.oup.com/gbe/article/doi/10.1093/gbe/evp040/602691?login=true) | polyploidy | Brassicales | Cleome | Arabidopsis| transcriptome
+
+> Analysis of these Cleome data with homologous sequences from other Rosid genomes (Arabidopsis, Carica, Gossypium, Populus, and Vitis) yielded three major findings: 
+- **1) confirmation of a Cleome-specific paleopolyploidization (Cs-α) that is independent of the Brassicaceae At-α paleopolyploidization;** 
+- **2) Cleome and Arabidopsis share the At-β duplication, which is lacking from papaya within the Brassicales; and **
+- **3) rates of molecular evolution are faster for the herbaceous annual taxa Arabidopsis and Cleome than the other predominantly woody perennial Rosid lineages. These findings contribute to our understanding of the dynamics of genome duplication and evolution within one of the most comprehensively surveyed clades of plants, the Rosids, and clarify the complex history of the At-α, At-β, and At-γ duplications of Arabidopsis.**
+
+
+
+
+
+
+### Genetic diversity
+
+-  30 entries | 11 amplified fragment length polymorphism primer | 09 simple sequence repeat markers [Emmanuel O. Omondi et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbr.12485)
+
+
+
+
+
+
+### Health values and micronutrients
 
 - High beta-carotene 
 - High folic acid 
@@ -132,7 +173,7 @@ See this, Chinese are doing sequencing of African orphan crop....
 ### Biochemistry
 - Belongs to the NAD-ME C4 photosynthesis sub-type
 - Uses NAD-malic enzyme type C4 photosynthesis 
-- The family Cleomaceae is relatively close to Brassicaceae with Arabidopsis thaliana (a C3 photosynthetic plant) and therefore offers comparison with this well studied model organism.[15] 
+- The family Cleomaceae is relatively close to Brassicaceae with Arabidopsis thaliana (a C3 photosynthetic plant) and therefore offers comparison with this well studied model organism.
 - The C4 pathway in this species evolved independently from two other C4 Cleome species, C. angustifolia and C. oxalidea.
 
 
