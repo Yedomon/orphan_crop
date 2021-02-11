@@ -1,5 +1,142 @@
 # orphan_crop
 
+
+
+
+# Gynandropsis gynandra (L.) Briq.
+
+### Synonym
+
+   ***Cleome gynandra***
+
+
+
+### Genomics
+
+- Estimate genome size: **~ 1Gb** [Erikvan den Bergh et al. 2014](https://www.sciencedirect.com/science/article/pii/S2214662814000061#:~:text=Both%20species%20also%20have%20relatively,gynandra%20%E2%89%88%201%20Gb)
+
+
+- Genome sizes ranging from **2.31 to 2.45 pg/2C** [Emmanuel O. Omondi et al. 2017](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbr.12485)
+
+
+- Ploidy: **Diploid** [Emmanuel O. Omondi et al. 2017](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbr.12485)
+
+
+- Chromosome number: **2n = 34** [Emmanuel O. Omondi et al. 2017](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbr.12485)
+
+
+> Cleome gynandra (L.) Briq. is an African leafy vegetable with a potential to improve food security and micronutrient deficiencies. 
+
+
+[Barker et al 2009](https://academic.oup.com/gbe/article/doi/10.1093/gbe/evp040/602691?login=true) | polyploidy | Brassicales | Cleome | Arabidopsis| transcriptome
+
+> Analysis of these Cleome data with homologous sequences from other Rosid genomes (Arabidopsis, Carica, Gossypium, Populus, and Vitis) yielded three major findings: 
+
+- **1) confirmation of a Cleome-specific paleopolyploidization (Cs-α) that is independent of the Brassicaceae At-α paleopolyploidization;** 
+- **2) Cleome and Arabidopsis share the At-β duplication, which is lacking from papaya within the Brassicales; and**
+- **3) rates of molecular evolution are faster for the herbaceous annual taxa Arabidopsis and Cleome than the other predominantly woody perennial Rosid lineages. 
+
+> These findings contribute to our understanding of the dynamics of genome duplication and evolution within one of the most comprehensively surveyed clades of plants, the Rosids, and clarify the complex history of the At-α, At-β, and At-γ duplications of Arabidopsis.**
+
+
+### Genetic diversity
+
+-  **30** entries | **11** amplified fragment length polymorphism primer | **09** simple sequence repeat markers [Emmanuel O. Omondi et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbr.12485)
+
+
+### Phenomics and enthobotanic studies
+
+- 2020 | [Origin-dependence of variation in seed morphology, mineral composition and germination percentage in Gynandropsis gynandra (L.) Briq. accessions from Africa and Asia](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02364-w)
+
+- 2020 | [Natural variation in specialised metabolites production in the leafy vegetable spider plant (Gynandropsis gynandra L. (Briq.)) in Africa and Asia](https://www.sciencedirect.com/science/article/pii/S0031942220302442) 
+
+
+- 2020 | [Utilization of Spider Plants (Gynandropsis gynandra, L. Briq) amongst Farming Households and Consumers of Northern Namibia](https://www.mdpi.com/2071-1050/12/16/6604)
+
+
+
+- 2021 | [Nutritional, phytochemical and diverse health-promoting qualities of Cleome gynandra](https://www.tandfonline.com/doi/full/10.1080/10408398.2020.1867055?casa_token=6WWEfqhLROwAAAAA%3A-WWhvUMbIG5zhMLotyMa4NURxbo1BnLqkfJra5i_-gvxsIhwRZpYAV5eIsUZSFdC7Dov4W6h7X3JPQ)
+
+
+- 2020 | [Natural variation in specialised metabolites production in the leafy vegetable spider plant (Gynandropsis gynandra L. (Briq.)) in Africa and Asia](https://www.sciencedirect.com/science/article/pii/S0031942220302442)
+
+- 2020 | [Diversity and Domestication Status of Spider Plant (Gynandropsis gynandra, L.) amongst Sociolinguistic Groups of Northern Namibia](https://www.mdpi.com/2073-4395/10/1/56)
+
+- 2020 | Review | [A roadmap for breeding orphan leafy vegetable species: a case study of Gynandropsis gynandra (Cleomaceae)](https://www.nature.com/articles/s41438-017-0001-2)
+
+
+- 2020 | [Drivers of Management of Spider Plant (Gynandropsis gynandra) Across Different Socio-linguistic Groups in Benin and Togo](https://link.springer.com/article/10.1007/s12231-018-9423-5)
+
+
+
+- 2020 | [Diversity and Domestication Status of Spider Plant (Gynandropsis gynandra, L.) amongst Sociolinguistic Groups of Northern Namibia](https://www.mdpi.com/2073-4395/10/1/56)
+
+
+
+### Health values and micronutrients
+
+- High **beta-carotene**
+- High **folic acid**
+- Extremely high **ascorbic acid** 
+- High **calcium**
+- Low Vitamin E
+- Medium iron
+- Extremely high **Oxalic acid**
+- Leaves are about 4.0% protein.
+- Leaves contains oxalic acid (ca. 0.01%)
+- The leaves also have antioxidative properties that can help with inflammatory diseases.
+- Because of its anti-inflammatory properties, it is sometimes used as a medicinal herb.
+- patent in cosmetics [Patent](https://patents.google.com/patent/EP2654762A1/fr)
+
+
+### Ecology
+
+- Annual wildflower native to Africa but has naturalized across tropic and sub-tropical regions across Asia.
+- It grows well in disturbed, well-drained soils, but is also **drought-tolerant**. 
+- It does not tolerate cold temperatures well, and is frost-tender.
+
+
+### Biochemistry
+- Belongs to the **NAD-ME C4 photosynthesis sub-type**
+- Uses **NAD-malic enzyme type C4 photosynthesis**
+- The family Cleomaceae is relatively **close to Brassicaceae** with Arabidopsis thaliana (a C3 photosynthetic plant) and therefore offers comparison with this well studied model organism.
+- The **C4 pathway in this species evolved independently from two other C4 Cleome species, C. angustifolia and C. oxalidea.**
+
+
+# Synsepalum dulcificum (Schumach & Thonn.) Daniell 
+
+- #### [Phenotypic variation, functional traits repeatability and core collection inference in Synsepalum dulcificum (Schumach & Thonn.) Daniell reveals the Dahomey Gap as a centre of diversity](https://www.nature.com/articles/s41598-020-76103-4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2021 |  Project | [Full-genome sequencing and annotation of the African yam bean (Sphenostylis stenocarpa)](https://acaciaafrica.org/bioinformatics-community-practice/full-genome-sequencing-and-annotation-of-the-african-yam-bean/)
 
 
@@ -94,97 +231,4 @@ See this, Chinese are doing sequencing of African orphan crop....
 2019 | Review | [The role of genetics in mainstreaming the production of new and orphan crops to diversify food systems and support human nutrition](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15895)
 
 2018 |  Research Paper | [The draft genomes of five agriculturally important African orphan crops](https://academic.oup.com/gigascience/article/8/3/giy152/5232229)
-
-
-
-# Gynandropsis gynandra (L.) Briq.
-
-### Synonym
-
-***Cleome gynandra***
-
-
-
-
-
-### Genomics
-
-- Estimate genome size: **~ 1Gb** [Erikvan den Bergh et al. 2014](https://www.sciencedirect.com/science/article/pii/S2214662814000061#:~:text=Both%20species%20also%20have%20relatively,gynandra%20%E2%89%88%201%20Gb)
-
-
-- Genome sizes ranging from 2.31 to 2.45 pg/2C [Emmanuel O. Omondi et al. 2017](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbr.12485)
-
-
-- Ploidy: **Diploid** [Emmanuel O. Omondi et al. 2017](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbr.12485)
-
-
-- Chromosome number: 2n = 34 [Emmanuel O. Omondi et al. 2017](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbr.12485)
-
-
-> Cleome gynandra (L.) Briq. is an African leafy vegetable with a potential to improve food security and micronutrient deficiencies. 
-
-
-
-
-[Barker et al 2009](https://academic.oup.com/gbe/article/doi/10.1093/gbe/evp040/602691?login=true) | polyploidy | Brassicales | Cleome | Arabidopsis| transcriptome
-
-> Analysis of these Cleome data with homologous sequences from other Rosid genomes (Arabidopsis, Carica, Gossypium, Populus, and Vitis) yielded three major findings: 
-- **1) confirmation of a Cleome-specific paleopolyploidization (Cs-α) that is independent of the Brassicaceae At-α paleopolyploidization;** 
-- **2) Cleome and Arabidopsis share the At-β duplication, which is lacking from papaya within the Brassicales; and**
-- **3) rates of molecular evolution are faster for the herbaceous annual taxa Arabidopsis and Cleome than the other predominantly woody perennial Rosid lineages. These findings contribute to our understanding of the dynamics of genome duplication and evolution within one of the most comprehensively surveyed clades of plants, the Rosids, and clarify the complex history of the At-α, At-β, and At-γ duplications of Arabidopsis.**
-
-
-
-
-
-
-### Genetic diversity
-
--  30 entries | 11 amplified fragment length polymorphism primer | 09 simple sequence repeat markers [Emmanuel O. Omondi et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbr.12485)
-
-
-
-
-
-
-### Health values and micronutrients
-
-- High beta-carotene 
-- High folic acid 
-- Extremely high ascorbic acid 
-- High calcium
-- Low Vitamin E
-- Medium iron
-- Extremely high Oxalic acid
-- Leaves are about 4.0% protein.
-- Leaves contains oxalic acid (ca. 0.01%)
-- The leaves also have antioxidative properties that can help with inflammatory diseases.
-- Because of its anti-inflammatory properties, it is sometimes used as a medicinal herb.
-- patent in cosmetics [Patent](https://patents.google.com/patent/EP2654762A1/fr)
-
-
-### Ecology
-
-- Annual wildflower native to Africa but has naturalized across tropic and sub-tropical regions across Asia.
-- It grows well in disturbed, well-drained soils, but is also **drought-tolerant**. 
-- It does not tolerate cold temperatures well, and is frost-tender.
-
-
-### Biochemistry
-- Belongs to the NAD-ME C4 photosynthesis sub-type
-- Uses NAD-malic enzyme type C4 photosynthesis 
-- The family Cleomaceae is relatively close to Brassicaceae with Arabidopsis thaliana (a C3 photosynthetic plant) and therefore offers comparison with this well studied model organism.
-- The C4 pathway in this species evolved independently from two other C4 Cleome species, C. angustifolia and C. oxalidea.
-
-
-# Synsepalum dulcificum (Schumach & Thonn.) Daniell 
-
-- #### [Phenotypic variation, functional traits repeatability and core collection inference in Synsepalum dulcificum (Schumach & Thonn.) Daniell reveals the Dahomey Gap as a centre of diversity](https://www.nature.com/articles/s41598-020-76103-4)
-
-
-
-
-
-
-
 
