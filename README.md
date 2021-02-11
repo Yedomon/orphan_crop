@@ -141,6 +141,7 @@ As a valuable plant species, currently, S. dulcificum is utilized in cosmetics a
 
 - 2015 [Current knowledge and breeding perspectives for the miracle plant Synsepalum dulcificum (Schum. et Thonn.) Daniell](https://link.springer.com/article/10.1007/s10722-015-0225-7)
 
+> Synsepalum dulcificum, an African native shrub, is a valuable species. All plant parts are of medicinal importance whereas the fruit known as magic berry, miracle berry, or sweet berry is consumed fresh. Surprisingly, very little is known on the species in terms of genotypes utilization and breeding. In this review we recalled the uses and importance of the species and suggested research avenues for an accelerated growth and fruit production. Synsepalum dulcificum is rich in glycoprotein and is an excellent natural sweetener and also a good candidate for the synthesis of drugs against diabetes. Furthermore, S. dulcificum has high content in phytochemical substances (e.g. (+)-epi-syringaresinol, vanillic acid, cyanidin-3-monogalactoside, and quercetin-3-monogalactoside) with various health and food benefits. Data on the nutrient content are limited. Likewise, knowledge on the reproductive biology and mating system is still narrow, combined with poorly developed horticultural practices. To fully exploit the potential of S. dulcificum prospective actions include: (1) improving the propagation and growth abilities of the species, (2) improving knowledge of floral biology and genetic diversity, (3) understanding the phenological phases of the species, gene expressions and how this contributes to metabolites accumulation and (4) improving genotypes for beverages, cosmetics and pharmaceutical industries and other value chains.
 
 
 
@@ -172,6 +173,10 @@ As a valuable plant species, currently, S. dulcificum is utilized in cosmetics a
 - 2020 | [The cholesterol‐lowering activity of miracle fruit (Synsepalum dulcificum)](https://onlinelibrary.wiley.com/doi/full/10.1111/jfbc.13185?casa_token=R7LGScAtVCQAAAAA%3A03iLLQNGGFDWpSf3jJupXSbPatLG-dxLsgJ1CNUTyE9NmwxkaVwcDUr-FHCDSjb6A_7cIpALsp2oQ8Ka)
 
 - 2017 | Patent | [Taste improvement using miracle fruit for juice from disease impacted fruit](https://patents.google.com/patent/US20200054044A1/en)
+
+
+
+
 
 
 
