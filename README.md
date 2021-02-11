@@ -121,8 +121,8 @@
 
 
 
-->Synsepalum dulcificum D. belongs to the Sapotaceae family (Shi et al. 2016), commonly known as miracle berry, miracle fruit, magic fruit, miraculous or asaba (Coronel et al. 2009; Obafemi et al. 2017), which is an evergreen shrub native to tropical West Africa (Wang et al. 2011). It is a kind of magical plant that has the unique characteristic of modifying sour flavors to sweet (Du et al. 2014). It is also a well-known natural source of ‘miraculin,’ a sweetening glycoprotein (Tchokponhoue et al. 2019). All plant parts of S. dulcificum are of medicinal importance. The berry fruit and leaf contains many nutrients along with many beneficial characteristics (Nkwocha et al. 2014; Njoku et al. 2015). It has the ability to improve insulin sensitivity, and antioxidant and anticancer abilities (Swamy et al. 2014). Thus, it may be used as an adjuvant for treating diabetic patients with insulin resistance (Chen et al. 2006; Obafemi et al. 2017). The seed oil of S. dulcificum is also a rare and exotic fruit oil (Guney and Nawar 1977).
-As a valuable plant species, currently, S. dulcificum is utilized in cosmetics and food. Besides, it is also used extensively in the pharmaceutical industry (Achigan-Dako et al. 2015). Surprisingly, there are few studies on the genomics of S. dulcificum, focusing on the nuclear, mitochondrial and chloroplast genome, which severely limits its utilization and breeding. In this study, the chloroplast genome of S. dulcificum was sequenced, assembled, and annotated firstly.<-
+> Synsepalum dulcificum D. belongs to the Sapotaceae family (Shi et al. 2016), commonly known as miracle berry, miracle fruit, magic fruit, miraculous or asaba (Coronel et al. 2009; Obafemi et al. 2017), which is an evergreen shrub native to tropical West Africa (Wang et al. 2011). It is a kind of magical plant that has the unique characteristic of modifying sour flavors to sweet (Du et al. 2014). It is also a well-known natural source of ‘miraculin,’ a sweetening glycoprotein (Tchokponhoue et al. 2019). All plant parts of S. dulcificum are of medicinal importance. The berry fruit and leaf contains many nutrients along with many beneficial characteristics (Nkwocha et al. 2014; Njoku et al. 2015). It has the ability to improve insulin sensitivity, and antioxidant and anticancer abilities (Swamy et al. 2014). Thus, it may be used as an adjuvant for treating diabetic patients with insulin resistance (Chen et al. 2006; Obafemi et al. 2017). The seed oil of S. dulcificum is also a rare and exotic fruit oil (Guney and Nawar 1977).
+As a valuable plant species, currently, S. dulcificum is utilized in cosmetics and food. Besides, it is also used extensively in the pharmaceutical industry (Achigan-Dako et al. 2015). Surprisingly, there are few studies on the genomics of S. dulcificum, focusing on the nuclear, mitochondrial and chloroplast genome, which severely limits its utilization and breeding. In this study, the chloroplast genome of S. dulcificum was sequenced, assembled, and annotated firstly.
 
 
 
@@ -134,8 +134,10 @@ As a valuable plant species, currently, S. dulcificum is utilized in cosmetics a
 
 
 
+- #### [Yield and miraculin content of nine miracle fruit (Synsepalum Dulcificum) morphotypes](https://link.springer.com/article/10.1007/s10681-020-02710-x)
 
 
+> Miracle fruit (Synsepalum dulcificum) is an understudied tropical fruit species with potential as a source of natural, non-caloric sweetener. Miracle fruit berries have been consumed in Africa for over 100 years. The fruit pulp contains a protein called miraculin, a natural, non-caloric sweetener, that changes the perception of sour foods and beverages to sweet. Demand for natural, non-caloric sweeteners like miraculin is increasing due to the growing number of people affected by chronic diseases associated with high sugar consumption. Miracle fruit could play a role in reducing sugar content in some food and beverage applications, but basic plant yield data and miraculin content in the fruit is generally lacking.
 
 
 
