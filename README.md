@@ -129,7 +129,7 @@ As a valuable plant species, currently, S. dulcificum is utilized in cosmetics a
 
 
 
-
+- 2015 [Current knowledge and breeding perspectives for the miracle plant Synsepalum dulcificum (Schum. et Thonn.) Daniell](https://link.springer.com/article/10.1007/s10722-015-0225-7)
 
 
 
