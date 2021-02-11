@@ -39,6 +39,15 @@
 > These findings contribute to our understanding of the dynamics of genome duplication and evolution within one of the most comprehensively surveyed clades of plants, the Rosids, and clarify the complex history of the At-α, At-β, and At-γ duplications of Arabidopsis.**
 
 
+
+
+#### Phylogenetic
+
+- [Biogeographic Patterns of Diversification and the Origins of C 4
+ in Cleome (Cleomaceae)](https://bioone.org/journals/systematic-botany/volume-35/issue-4/036364410X539880/Biogeographic-Patterns-of-Diversification-and-the-Origins-of-C4-in/10.1600/036364410X539880.short)
+
+
+
 ### Genetic diversity
 
 -  **30** entries | **11** amplified fragment length polymorphism primer | **09** simple sequence repeat markers [Emmanuel O. Omondi et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbr.12485)
