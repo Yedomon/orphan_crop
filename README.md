@@ -34,7 +34,7 @@
 
 - **1) confirmation of a Cleome-specific paleopolyploidization (Cs-α) that is independent of the Brassicaceae At-α paleopolyploidization;** 
 - **2) Cleome and Arabidopsis share the At-β duplication, which is lacking from papaya within the Brassicales; and**
-- **3) rates of molecular evolution are faster for the herbaceous annual taxa Arabidopsis and Cleome than the other predominantly woody perennial Rosid lineages. 
+- **3) rates of molecular evolution are faster for the herbaceous annual taxa Arabidopsis and Cleome than the other predominantly woody perennial Rosid lineages.** 
 
 > These findings contribute to our understanding of the dynamics of genome duplication and evolution within one of the most comprehensively surveyed clades of plants, the Rosids, and clarify the complex history of the At-α, At-β, and At-γ duplications of Arabidopsis.**
 
