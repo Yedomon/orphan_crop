@@ -156,6 +156,35 @@ As a valuable plant species, currently, S. dulcificum is utilized in cosmetics a
 
 
 
+- 2020 | [Nutritional benefits, phytochemical constituents, ethnomedicinal uses and biological properties of Miracle fruit plant (Synsepalum dulcificum Shumach. & Thonn. Daniell)](https://www.sciencedirect.com/science/article/pii/S2405844020326797)
+
+
+
+- 2020 | [Miracle Berry as a Potential Supplement in the Control of Metabolic Risk Factors in Cancer](https://www.mdpi.com/2076-3921/9/12/1282)
+
+- 2020 | [Large-scale production of recombinant miraculin protein in transgenic carrot callus suspension cultures using air-lift bioreactors](https://amb-express.springeropen.com/articles/10.1186/s13568-020-01079-3)
+
+
+- 2020 | [The cholesterol‐lowering activity of miracle fruit (Synsepalum dulcificum)](https://onlinelibrary.wiley.com/doi/full/10.1111/jfbc.13185?casa_token=R7LGScAtVCQAAAAA%3A03iLLQNGGFDWpSf3jJupXSbPatLG-dxLsgJ1CNUTyE9NmwxkaVwcDUr-FHCDSjb6A_7cIpALsp2oQ8Ka)
+
+- 2017 | Patent | [Taste improvement using miracle fruit for juice from disease impacted fruit](https://patents.google.com/patent/US20200054044A1/en)
+
+
+
+# General orphan crop view
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
