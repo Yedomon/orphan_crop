@@ -122,7 +122,7 @@
 
 
 
-![fig2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.seeds-gallery.shop%2Fen%2Fhome%2Fmiracle-fruit-miracle-berry-seeds-synsepalum-dulcificum.html&psig=AOvVaw1D3ydcdpeXkzgy8UizdKX_&ust=1613149025221000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjM39Gm4u4CFQAAAAAdAAAAABBH)
+![fig2](https://explore.logees.com/media/Miracle-Fruit-Miracle-Berry-Synsepalum-dulcificum.jpg)
 
 - #### [Phenotypic variation, functional traits repeatability and core collection inference in Synsepalum dulcificum (Schumach & Thonn.) Daniell reveals the Dahomey Gap as a centre of diversity](https://www.nature.com/articles/s41598-020-76103-4)
 
