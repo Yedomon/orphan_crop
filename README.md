@@ -149,12 +149,6 @@ As a valuable plant species, currently, S. dulcificum is utilized in cosmetics a
 
 
 
-2021 |  Project | [Full-genome sequencing and annotation of the African yam bean (Sphenostylis stenocarpa)](https://acaciaafrica.org/bioinformatics-community-practice/full-genome-sequencing-and-annotation-of-the-african-yam-bean/)
-
-
-[Bernice Ngina Waweru](https://acaciaafrica.org/bix-fellow/bernice-ngina-waweru/) works on the project 
-
-
 
 - 2020 | [Nutritional benefits, phytochemical constituents, ethnomedicinal uses and biological properties of Miracle fruit plant (Synsepalum dulcificum Shumach. & Thonn. Daniell)](https://www.sciencedirect.com/science/article/pii/S2405844020326797)
 
@@ -179,6 +173,12 @@ As a valuable plant species, currently, S. dulcificum is utilized in cosmetics a
 
 
 
+
+
+2021 |  Project | [Full-genome sequencing and annotation of the African yam bean (Sphenostylis stenocarpa)](https://acaciaafrica.org/bioinformatics-community-practice/full-genome-sequencing-and-annotation-of-the-african-yam-bean/)
+
+
+[Bernice Ngina Waweru](https://acaciaafrica.org/bix-fellow/bernice-ngina-waweru/) works on the project 
 
 
 
