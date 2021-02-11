@@ -140,8 +140,9 @@ As a valuable plant species, currently, S. dulcificum is utilized in cosmetics a
 > Miracle fruit (Synsepalum dulcificum) is an understudied tropical fruit species with potential as a source of natural, non-caloric sweetener. Miracle fruit berries have been consumed in Africa for over 100 years. The fruit pulp contains a protein called miraculin, a natural, non-caloric sweetener, that changes the perception of sour foods and beverages to sweet. Demand for natural, non-caloric sweeteners like miraculin is increasing due to the growing number of people affected by chronic diseases associated with high sugar consumption. Miracle fruit could play a role in reducing sugar content in some food and beverage applications, but basic plant yield data and miraculin content in the fruit is generally lacking.
 
 
+- 2019 | [Shade and nutrient-mediated phenotypic plasticity in the miracle plant Synsepalum dulcificum (Schumach. & Thonn.) Daniell](https://www.nature.com/articles/s41598-019-41673-5)
 
-
+- 2017 | [Early fruiting in Synsepalum dulcificum (Schumach. & Thonn.) Daniell juveniles induced by water and inorganic nutrient management](https://f1000research.com/articles/6-399/v1)
 
 
 
