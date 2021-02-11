@@ -109,7 +109,7 @@
 
 
 
-                        Ref : [NUTRITIONAL AND MEDICINAL PROPERTIES OF CLEOME GYNANDRA](https://www.actahort.org/books/752/752_17.htm)
+Ref : [NUTRITIONAL AND MEDICINAL PROPERTIES OF CLEOME GYNANDRA](https://www.actahort.org/books/752/752_17.htm)
 ### Harvesting
 
 > Plants can be harvested at a height of about 15cm by uprooting whole plants, by topping, cutting back to ground level, or picking individual leaves or leafy branches at
