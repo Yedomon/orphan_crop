@@ -108,6 +108,18 @@
 - It does not tolerate cold temperatures well, and is frost-tender.
 
 
+
+                        Ref : [NUTRITIONAL AND MEDICINAL PROPERTIES OF CLEOME GYNANDRA](https://www.actahort.org/books/752/752_17.htm)
+### Harvesting
+
+> Plants can be harvested at a height of about 15cm by uprooting whole plants, by topping, cutting back to ground level, or picking individual leaves or leafy branches at
+frequent intervals. Frequent picking and deflowering encourages lateral growth, thus extending the harvesting period. Harvesting starts 4-6 weeks after seedling emergence
+and can last up to 4-5 weeks (Chweya, 1995). Cumulative leaf yields of 30t/ha per season can be obtained. Weekly leaf yield increases with plant age up to about the 7 week of growth after which the yield starts to decline. By the 10th week of growth the yield would have decreased by about 90%. Seed yield are about 500kg/ha at most (Chweya and Mnzava, 1995). 
+
+
+
+
+
 ### Biochemistry
 - 2021 | [Induction of C4 genes evolved through changes in cis allowing integration into ancestral C3 gene regulatory networks](https://www.biorxiv.org/content/10.1101/2020.07.03.186395v2.abstract)
 - Belongs to the **NAD-ME C4 photosynthesis sub-type**
