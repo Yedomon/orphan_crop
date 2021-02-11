@@ -13,7 +13,7 @@
 
 ### Genomics
 
-- Estimate genome size: **~ 1Gb** [Erikvan den Bergh et al. 2014](https://www.sciencedirect.com/science/article/pii/S2214662814000061#:~:text=Both%20species%20also%20have%20relatively,gynandra%20%E2%89%88%201%20Gb)
+- Estimate genome size:  **~1Gb**  [Erikvan den Bergh et al. 2014](https://www.sciencedirect.com/science/article/pii/S2214662814000061#:~:text=Both%20species%20also%20have%20relatively,gynandra%20%E2%89%88%201%20Gb)
 
 
 - Genome sizes ranging from **2.31 to 2.45 pg/2C** [Emmanuel O. Omondi et al. 2017](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbr.12485)
@@ -117,12 +117,32 @@
 - #### [Phenotypic variation, functional traits repeatability and core collection inference in Synsepalum dulcificum (Schumach & Thonn.) Daniell reveals the Dahomey Gap as a centre of diversity](https://www.nature.com/articles/s41598-020-76103-4)
 
 
+[Complete chloroplast genome of Synsepalum dulcificum D.: a magical plant that modifies sour flavors to sweet](https://www.tandfonline.com/doi/pdf/10.1080/23802359.2020.1798299#:~:text=Synsepalum%20dulcificum%20D.,-belongs%20to%20the&text=dulcificum%20is%20158%2C463bp%2C%20the,were%20annotated%20in%20the%20S.)
 
 
 
-
-
-
+> <div style="text-align: right"> Synsepalum dulcificum D. belongs to the Sapotaceae family
+(Shi et al. 2016), commonly known as miracle berry, miracle
+fruit, magic fruit, miraculous or asaba (Coronel et al. 2009;
+Obafemi et al. 2017), which is an evergreen shrub native to
+tropical West Africa (Wang et al. 2011). It is a kind of magical
+plant that has the unique characteristic of modifying sour flavors to sweet (Du et al. 2014). It is also a well-known natural
+source of ‘miraculin,’ a sweetening glycoprotein
+(Tchokponhou
+e et al. 2019). All plant parts of S. dulcificum
+are of medicinal importance. The berry fruit and leaf contains
+many nutrients along with many beneficial characteristics
+(Nkwocha et al. 2014; Njoku et al. 2015). It has the ability to
+improve insulin sensitivity, and antioxidant and anticancer
+abilities (Swamy et al. 2014). Thus, it may be used as an adjuvant for treating diabetic patients with insulin resistance
+(Chen et al. 2006; Obafemi et al. 2017). The seed oil of S. dulcificum is also a rare and exotic fruit oil (Guney and
+Nawar 1977).
+As a valuable plant species, currently, S. dulcificum is utilized in cosmetics and food. Besides, it is also used extensively in the pharmaceutical industry (Achigan-Dako et al.
+2015). Surprisingly, there are few studies on the genomics of
+S. dulcificum, focusing on the nuclear, mitochondrial and
+chloroplast genome, which severely limits its utilization and
+breeding. In this study, the chloroplast genome of S. dulcificum was sequenced, assembled, and annotated firstly.
+ </div>
 
 
 
