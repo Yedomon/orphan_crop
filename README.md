@@ -128,6 +128,19 @@ and can last up to 4-5 weeks (Chweya, 1995). Cumulative leaf yields of 30t/ha pe
 - The **C4 pathway in this species evolved independently from two other C4 Cleome species, C. angustifolia and C. oxalidea.**
 
 
+
+Publications planification
+
+- ##### Complete chloroplast genome sequence of the spider plant Gynandropsis gynandra (L.) and evolutionnary implication in Brassicales order | Target journal: [IJMS](https://www.mdpi.com/journal/ijms)
+
+- ##### Benchmarking of Nanopore based assemblers for the construction of the orphan crop Gynandropsis gynandra genome assembly | Target Journal: [GigaScience](https://academic.oup.com/gigascience)
+
+- ##### Carotenoid biosynthesis genes mining through a tissue transcriptome profiling in Gynandropsis gynandra | Target Journal: [The Plant Genome](https://acsess.onlinelibrary.wiley.com/journal/19403372)
+
+- ##### Whole genome contruction of the orphan crop Gynandropsis gynandra sheds ligth on bete carotene biosynthesis | Target Journal: [Nature Communications](https://www.nature.com/ncomms/)
+
+
+
 # Synsepalum dulcificum (Schumach & Thonn.) Daniell 
 
 
