@@ -1,5 +1,34 @@
 # orphan_crop
 
+
+
+#### 2021 | [A Chromosome-scale draft genome sequence of horsegram (Macrotyloma uniflorum)](https://www.biorxiv.org/content/10.1101/2021.01.18.427074v1.full)
+
+
+
+
+![img](https://www.biorxiv.org/content/biorxiv/early/2021/01/19/2021.01.18.427074/F4.large.jpg?width=800&height=600&carousel=1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### 2021 | White Fonio genome is out! Long reads only. No chromosome scale. [Genome sequence and genetic diversity analysis of an under-domesticated orphan crop, white fonio (Digitaria exilis)](https://academic.oup.com/gigascience/article/10/3/giab013/6168810)
 
 Fonio genome
