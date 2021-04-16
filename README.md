@@ -1,5 +1,15 @@
 # orphan_crop
 
+#### White Fonio genome is out! Long reads only. No chromosome scale. [Genome sequence and genetic diversity analysis of an under-domesticated orphan crop, white fonio (Digitaria exilis)](https://academic.oup.com/gigascience/article/10/3/giab013/6168810)
+
+Fonio genome
+
+![img3](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/10/3/10.1093_gigascience_giab013/2/m_giab013fig1.jpeg?Expires=1621181548&Signature=UKFKy-wVvKkHPGnYf5aWTY8tUUYez6xtxyRO~uO5nzjZYdqe2IQNKD1G4owdstKOtF0TH7LoC-l1QRQSjTj4aDTxC39yzHXkD9FAw~M4wjaUIVZoh6gQ4RIoVYq922RmtsTLDOXSgpEvA8xJ~NEYZc1p7MV-ugBEAnEFrywjWCfu7pdKujqJ20hEDrAlCy~WVJ8abW9lSRpcsB0ydiDSp9bYX3k0f~-qPqnRn6t2FPGjfunzASl0I2kjr2GijdFjAWjS3Du8d4KWK2cuccmhJ~cn2qt8tVDHvvp9SW7WyqnozLcex0r~AMRlTZ1ztyIUdDTyXHANONb~~O34npGAWg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+
+Fonio genetic diversity
+![img4](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/10/3/10.1093_gigascience_giab013/2/m_giab013fig3.jpeg?Expires=1621181548&Signature=zDE2JzU18yKFbu9x5Z6MHg-PBU7-t6~wEc~Z5JcTC3Jtewj5DLaqdXvqVKdL84Ez4VQPw8gUe-Y8T7yeIWk~cKuH7e-1n2autV1DyfzlEXVGHpLM10J0433u1fG4J28BKxyQr5~0FFo2wYd2Kfk0ZCDq2Lbgecp~ewJbCS4mxE0EEtOxCV7ZwT4jjGlVj-drJK7zXtROJwMB8CZj0CdSf6kmRAH3QUEsh0ryWAsO2LaA~SsDyWSGHL8uFETIZ0M95sUvdw~Ob0vihoO3FiGNYSAyx7DvYVMe7jj3hz0MObmOf~cXMNPMn9rfO8ilmMJSDYR4pnl2ETJzVOE5Tz-97w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
 #### [Plant Genomics in Africa: Present and prospects](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.15272)
 
 
