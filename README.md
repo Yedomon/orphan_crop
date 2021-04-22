@@ -2,6 +2,27 @@
 
 
 
+Breaking News! I found today the initiative called [Digital Innovation in Africa for a Sustainable Agri-Environment](https://daisea245609019.wordpress.com/)
+
+
+A workshop was done in 2020. | her is the [recording](https://youtu.be/bgjTQRzIr1c)
+
+
+For inquiry I can contact ThankGod Ebenezer – thankgod1980@yahoo.co.uk or Isidore Houaga – ihouaga@gmail.com
+
+
+We have a Beninese representative there.
+
+Name	Chakirath Folakè Arikè Salifou
+Affiliation:	Laboratoire de Biotechnologie Animale et Technologie des Viandes, Département de Production et Santé Animale, Ecole Polytechnique d’Abomey-Calavi, Université d’Abomey Calavi, Abomey Calavi, Benin
+
+
+
+
+
+
+
+
 #### 2021 | [A Chromosome-scale draft genome sequence of horsegram (Macrotyloma uniflorum)](https://www.biorxiv.org/content/10.1101/2021.01.18.427074v1.full)
 
 
