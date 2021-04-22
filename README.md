@@ -5,7 +5,7 @@
 Breaking News! I found today the initiative called [Digital Innovation in Africa for a Sustainable Agri-Environment](https://daisea245609019.wordpress.com/)
 
 
-A workshop was done in 2020. | her is the [recording](https://youtu.be/bgjTQRzIr1c)
+A workshop was done in 2020. | here is the [recording](https://youtu.be/bgjTQRzIr1c)
 
 
 For inquiry I can contact ThankGod Ebenezer – thankgod1980@yahoo.co.uk or Isidore Houaga – ihouaga@gmail.com
