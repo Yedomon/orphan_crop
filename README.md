@@ -16,6 +16,8 @@ We have a Beninese representative there.
 Name	Chakirath Folakè Arikè Salifou
 Affiliation:	Laboratoire de Biotechnologie Animale et Technologie des Viandes, Département de Production et Santé Animale, Ecole Polytechnique d’Abomey-Calavi, Université d’Abomey Calavi, Abomey Calavi, Benin
 
+[Her weblink](http://www.lbatv.org/Blog%20Posts/publication-chakirath.html)
+
 
 
 
