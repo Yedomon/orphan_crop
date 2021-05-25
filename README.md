@@ -1,6 +1,17 @@
 # orphan_crop
 
 
+Nice Review in orphan crop genomics I saw today 25 May 2021 | [Review: Orphan crops and their wild relatives in the genomic era](https://www.sciencedirect.com/science/article/pii/S1674205220304445)
+
+
+
+Here the authors only focused on orphan cereals. I can do the similar review for orphan legume crops also like cleoma gynandra, cerathoteca sesamoides and triloba etc ...
+
+
+
+![img](https://ars.els-cdn.com/content/image/1-s2.0-S1674205220304445-gr1.jpg)
+
+
 
 Breaking News! I found today the initiative called [Digital Innovation in Africa for a Sustainable Agri-Environment](https://daisea245609019.wordpress.com/)
 
