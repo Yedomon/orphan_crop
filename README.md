@@ -1,6 +1,15 @@
 # orphan_crop
 
 
+Press release |  Jacqueline d'Arros Hughes, Director General, International Crops Research Institute for the Semi-Arid Tropics (ICRISAT) [Is there a Future for Orphan Crops?](https://www.linkedin.com/pulse/future-orphan-crops-jacqueline-hughes/)
+
+
+> “Orphan crops are not forgotten by the peoples who subsist on them. However, they have never received global importance, they have never (or rarely) been the focus of concerted efforts to improve productivity or quality, nor have they been the focus of global value chains. They are adapted to often very challenging environments – which resonates well with our current climatic challenges.”
+
+
+
+
+
 Nice Review in orphan crop genomics I saw today 25 May 2021 | [Review: Orphan crops and their wild relatives in the genomic era](https://www.sciencedirect.com/science/article/pii/S1674205220304445)
 
 
