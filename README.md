@@ -1,5 +1,25 @@
 # orphan_crop
 
+Just see today 1st June 2021 that Cleoma Gynandra already sequenced by the African orphan crops consortium and will be released soon
+
+
+
+I saw [here](http://africanorphancrops.org/ongoing-projects/)
+
+
+- Genome sequencing: Eight genomes have been sequenced and published
+- Apple-Ring Acacia (Faidherbia albida)
+- Bambara Groundnut (Vigna subterranea)
+- Hyacinth Bean (Lablab purpureus)
+- Marula (Sclerocarya birrea)
+- Horseradish Tree (Moringa oleifera)
+- Jackfruit (Artocarpus heterophyllus)
+- Breadfruit (Artocarpus altilis)
+- African eggplant (Solanum aethiopicum)
+
+Apart from these, four more genomes, of finger millet (Elusine coracana), shea (Vitellaria paradoxa), yam (Dioscorea alata), and **cleome (Gyndandropsis gynandra)**, are being assembled and will soon be published.
+
+
 
 Press release |  Jacqueline d'Arros Hughes, Director General, International Crops Research Institute for the Semi-Arid Tropics (ICRISAT) [Is there a Future for Orphan Crops?](https://www.linkedin.com/pulse/future-orphan-crops-jacqueline-hughes/)
 
