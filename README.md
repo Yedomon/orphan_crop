@@ -6,8 +6,7 @@ Just see today 1st June 2021 that Cleoma Gynandra already sequenced by the Afric
 
 I saw [here](http://africanorphancrops.org/ongoing-projects/)
 
-
-- Genome sequencing: Eight genomes have been sequenced and published
+Genome sequencing: Eight genomes have been sequenced and published
 - Apple-Ring Acacia (Faidherbia albida)
 - Bambara Groundnut (Vigna subterranea)
 - Hyacinth Bean (Lablab purpureus)
@@ -18,6 +17,9 @@ I saw [here](http://africanorphancrops.org/ongoing-projects/)
 - African eggplant (Solanum aethiopicum)
 
 Apart from these, four more genomes, of finger millet (Elusine coracana), shea (Vitellaria paradoxa), yam (Dioscorea alata), and **cleome (Gyndandropsis gynandra)**, are being assembled and will soon be published.
+
+
+So just wait and see. Keep calm finish your PhD and you'll see
 
 
 
