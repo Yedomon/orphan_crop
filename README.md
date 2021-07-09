@@ -23,7 +23,9 @@
 
 ## Genetics
 
-- The chromosome number reported for M. citrifolia is **n = 22** (Philip and Mathew, 1988). Within this species, there is great morphological variation for fruits and leaves with no clear subpopulations bearing unique traits (Nelson, 2006).
+- The chromosome number reported for M. citrifolia is **n = 22** (Philip and Mathew, 1988). 
+- Within this species, there is great morphological variation for fruits and leaves with no clear subpopulations bearing unique traits (Nelson, 2006).
+- diploid tetraploid 2n = 22, basic number 11
 
 
 
@@ -41,6 +43,7 @@
 - [noni](https://www.webmd.com/vitamins/ai/ingredientmono-758/noni)
 - [Properties and Applications of Morinda citrifolia (Noni): A Review](https://onlinelibrary.wiley.com/doi/full/10.1111/1541-4337.12456)
 - [The complete chloroplast genome of Morinda citrifolia (noni)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7748540/)
+- [CYTOLOGY IN THE SYSTEMATICS, PHYLOGENY AND EVOLUTION IN PLANTS IV. RUBIACEAE](https://socg.in/pdf/2019/01.pdf)
 
 
 
