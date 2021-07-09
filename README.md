@@ -27,18 +27,20 @@
 
 
 
-People use noni for cancer, high blood pressure, athletic performance, and many other conditions, but there is no good scientific evidence to support these uses. The FDA has issued multiple warnings to noni manufacturers about health claims that aren't supported by research.
-
-How does it work ?
-Noni contains many substances, including potassium. Some of these substances might help repair damaged cells in the body, activate the immune system, and have other activities.
+- People use noni for cancer, high blood pressure, athletic performance, and many other conditions, but there is no good scientific evidence to support these uses. The FDA has issued multiple warnings to noni manufacturers about health claims that aren't supported by research.
 
 
+- Noni contains many substances, including potassium. Some of these substances might help repair damaged cells in the body, activate the immune system, and have other activities.
 
+
+- almost 200 phytochemical compounds with bioactive properties have already been identified
 
 ## Ref
 
 - [Rojas-Sandoval J, 2017. Morinda citrifolia (Indian mulberry). Invasive Species Compendium. Wallingford, UK: CABI. DOI:10.1079/ISC.34854.20203483191](https://www.cabi.org/isc/datasheet/34854#tosummaryOfInvasiveness)
 - [noni](https://www.webmd.com/vitamins/ai/ingredientmono-758/noni)
+- [Properties and Applications of Morinda citrifolia (Noni): A Review](https://onlinelibrary.wiley.com/doi/full/10.1111/1541-4337.12456)
+- [The complete chloroplast genome of Morinda citrifolia (noni)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7748540/)
 
 
 
