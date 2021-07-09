@@ -1,5 +1,50 @@
 # orphan_crop
 
+
+# Noni | Morinda citrifolia | (Indian mulberry)
+
+## Environment
+
+- can tolerate and thrive in very harsh conditions
+- well adapted to a wide range of environmental conditions and soil types
+- can grow in infertile, acidic, and alkaline soils, and in areas with climates ranging from very dry to very wet
+- tolerant to fire, waterlogging, wind, shaded conditions (>80% shade) and salt spray
+- one of the first plants to colonize harsh waste areas or lava flows on islands across the Pacific region and is also one of the few species that can thrive beneath the canopy of the allelopathic tree Casuarina equisetifolia
+- has a deep taproot and an extensive and aggressive root system and once established it is very persistent and difficult to eradicate
+
+
+## Taxonomy
+
+- The genus Morinda includes about 100 species of climbing shrubs, erect shrubs, or small trees
+- There are forms of M. citrifolia previously recognized as botanical varieties (M. citrifolia var. citrifolia, M. citrifolia var. bracteata and M. citrifolia var. elliptica) and one cultivar (M. citrifolia cultivar Potteri) but now regarded as synonyms
+- The former var. bracteata is a small fruited variety with conspicuous bracts subtending the fruit. It is found in Indonesia and other parts of the region between the Indian and Pacific oceans. It is cultivated in some locations. The former var. potteri is an ornamental, small-fruited, narrow-leafed type with green-and-white leaf variegation, which is distributed throughout the Pacific
+- If this proposal had been rejected the name would have been applied to the species known as M. coreia and the species presently known as M. citrifolia would have to be renamed M. nodosa, which would cause confusion in this widely cultivated species
+
+
+## Genetics
+
+- The chromosome number reported for M. citrifolia is **n = 22** (Philip and Mathew, 1988). Within this species, there is great morphological variation for fruits and leaves with no clear subpopulations bearing unique traits (Nelson, 2006).
+
+
+
+People use noni for cancer, high blood pressure, athletic performance, and many other conditions, but there is no good scientific evidence to support these uses. The FDA has issued multiple warnings to noni manufacturers about health claims that aren't supported by research.
+
+How does it work ?
+Noni contains many substances, including potassium. Some of these substances might help repair damaged cells in the body, activate the immune system, and have other activities.
+
+
+
+
+## Ref
+
+- [Rojas-Sandoval J, 2017. Morinda citrifolia (Indian mulberry). Invasive Species Compendium. Wallingford, UK: CABI. DOI:10.1079/ISC.34854.20203483191](https://www.cabi.org/isc/datasheet/34854#tosummaryOfInvasiveness)
+- [noni](https://www.webmd.com/vitamins/ai/ingredientmono-758/noni)
+
+
+
+
+
+
 Just see today 1st June 2021 that Cleoma Gynandra already sequenced by the African orphan crops consortium and will be released soon
 
 
