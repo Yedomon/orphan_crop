@@ -14,8 +14,10 @@
 - Morinda lucida ????? Benin 
 
 
-[rota description](https://prota4u.org/database/protav8.asp?fr=1&g=pe&p=Morinda+lucida+Benth.)
+[prota description](https://prota4u.org/database/protav8.asp?fr=1&g=pe&p=Morinda+lucida+Benth.)
 
+
+sequencing [inqaba](https://inqababiotec.co.za/services/ngs/) or [krisp](https://krisp.org.za/services.php?category=DNA%20Sequencing)
 
 
 
