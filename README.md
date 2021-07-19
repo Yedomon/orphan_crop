@@ -3,6 +3,33 @@
 
 # Noni | Morinda citrifolia | (Indian mulberry)
 
+
+#### Chloroplast
+
+
+- 2016 [Morinda officinalis](https://pubmed.ncbi.nlm.nih.gov/26465065/) endemic to China
+- 2020 [Morinda citrifolia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7748540/)
+- 2020 [Morinda parvifolia](https://www.tandfonline.com/doi/full/10.1080/23802359.2020.1750321)
+
+- Morinda lucida ????? Benin 
+
+
+[rota description](https://prota4u.org/database/protav8.asp?fr=1&g=pe&p=Morinda+lucida+Benth.)
+
+
+
+
+## Molecules
+
+
+
+[Glycosyltransferase family 25 (LPS biosynthesis protein](https://pfam.xfam.org/family/Glyco_transf_25)
+
+
+[Discovery and characterization of four glycosyltransferases involved in anthraquinone glycoside biosynthesis in Rubia yunnanensis](https://pubs.rsc.org/en/content/articlelanding/2020/qo/d0qo00579g/unauth#!divAbstract)
+
+
+
 ## Environment
 
 - can tolerate and thrive in very harsh conditions
